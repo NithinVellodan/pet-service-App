@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181768224345",
+    "firebase_url": "https://pet2place-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pet2place",
+    "storage_bucket": "pet2place.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181768224345:android:44fd84cf389d4701c43b48",
+        "android_client_info": {
+          "package_name": "com.pettoplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181768224345-69tbdvpgrqkpofkubrjplph8a6tuu9th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pettoplace",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "181768224345-8c1a8fb7u5aknndht5gd5d8uno81cjk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkC446G90Esu3x2vMvMW-_xTRmegYyhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181768224345-8c1a8fb7u5aknndht5gd5d8uno81cjk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181768224345-42a62cv53mktkjedcpbt55v177mqth6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.PetToPlace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
